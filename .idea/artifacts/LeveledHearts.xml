@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LeveledHearts">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="LeveledHearts.jar">
+      <element id="module-output" name="LeveledHearts" />
+    </root>
+  </artifact>
+</component>

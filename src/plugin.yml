@@ -1,0 +1,7 @@
+name: LeveledHearts
+version: 1.2
+author: ItsRandall
+main: uk.ItsRandall.LeveledHearts.Main
+description: LeveledHearts scenario created by ItsRandall for the Nefarios Recorded Round
+commands:
+  LeveledHearts:
